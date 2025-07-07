@@ -11,7 +11,7 @@
 <sup>3</sup> Zhengzhou Research Institute of Beijing Institute of Technology, China  
 
 <p align="center">
-  <img src="figs/fig2_framework.png" alt="System Overview" width="720"/>
+  <img src="figs/fig2_framework.jpg" alt="System Overview" width="720"/>
 </p>
 
 ## 💻 Code Availability
