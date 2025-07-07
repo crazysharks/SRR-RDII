@@ -1,4 +1,6 @@
 # SRR-RDII
+> 📌 This repository provides the official code implementation of our work:
+
 # Spectral Reflectance Imaging with Dual-Illumination and RGB Camera via Regularized End-to-End Learning
 
 ## 📄 Paper Information
