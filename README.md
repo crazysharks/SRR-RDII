@@ -20,6 +20,13 @@
 
 The source code is currently under final organization and will be released **soon**.
 
+The data used in this work are derived from existing public resources. Specifically, we used datasets and spectral references from the following sources:
+
+VCSD Project: https://github.com/MyNiuuu/VCSD
+
+KAUST Repository: https://repository.kaust.edu.sa/items/891485b4-11d2-4dfc-a4a6-69a4912c05f1
+
+
 ---
 
 ## 🎬 Result Demonstration
