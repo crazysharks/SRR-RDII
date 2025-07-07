@@ -18,27 +18,17 @@
 
 The source code is currently under final organization and will be released **soon**.
 
-### ⏳ Coming Soon:
-- Full training and evaluation pipeline
-- Neural architectures for illumination modeling and reflectance reconstruction
-- Relighting visualization tools
-- Sample datasets and usage documentation
-
-Please **watch** or **star** this repository to get updates when the code is made public.
-
 ---
 
 ## 🎬 Result Demonstration
 
 We provide a short video demonstrating our system's spectral reflectance reconstruction and relighting results.  
-[👉 Click to watch the video](./demo/demo_result.mp4)
+[👉 Click to watch the video](figs/demo_result.mp4)
 
 > The video illustrates:  
 > - Spectral reflectance recovery from RGB inputs  
 > - Dual-illumination acquisition setup  
 > - Dynamic relighting with estimated reflectance
-
-You can also view it directly in your browser if your GitHub settings allow video preview.
 
 ---
 
@@ -46,6 +36,5 @@ You can also view it directly in your browser if your GitHub settings allow vide
 
 If you are interested in this work or would like early collaboration:
 
-- Hao XX: your.email@domain.com  
-- Li Yue: liuyue@bit.edu.cn  
-- Youri Meuret: youri.meuret@kuleuven.be  
+- Hao Sha: sh15271201@163.com  
+
