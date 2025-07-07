@@ -21,6 +21,7 @@ The source code is currently under final organization and will be released **soo
 ---
 
 ## 🎬 Result Demonstration
+![Demo](figs/demo.gif)
 
 We provide a short video demonstrating our system's spectral reflectance reconstruction and relighting results.  
 [👉 Click to watch the video](figs/demo.mp4)
