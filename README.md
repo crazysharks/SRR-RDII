@@ -10,6 +10,10 @@
 <sup>2</sup> Department of Electrical Engineering (ESAT), KU Leuven, Belgium  
 <sup>3</sup> Zhengzhou Research Institute of Beijing Institute of Technology, China  
 
+<p align="center">
+  <img src="docs/fig2_framework.png" alt="System Overview" width="720"/>
+</p>
+
 ## 💻 Code Availability
 
 The source code is currently under final organization and will be released **soon**.
