@@ -23,7 +23,7 @@ The source code is currently under final organization and will be released **soo
 ## 🎬 Result Demonstration
 
 We provide a short video demonstrating our system's spectral reflectance reconstruction and relighting results.  
-[👉 Click to watch the video](figs/demo_result.mp4)
+[👉 Click to watch the video](figs/demo.mp4)
 
 > The video illustrates:  
 > - Spectral reflectance recovery from RGB inputs  
